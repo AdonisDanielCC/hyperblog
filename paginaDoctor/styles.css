@@ -3,3 +3,9 @@ body {
     font-family: 'Source Serif Pro', serif;
     text-align: center;
 }
+
+#fotos {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
